@@ -1,5 +1,6 @@
 # 📒 Lógica com Javascript
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 "Durante os 7 desafios você vai praticar com a linguagem mais usada no mundo e aprenderá como usar o Javascript para criar algoritmos e resolver problemas do seu dia-a-dia. Vamos ver como usar variáveis, condicionais e estruturas de loop para resolver problemas que são a base que qualquer pessoa entrando na área da programação precisa conhecer"
 
 ## 📅 Cronograma
@@ -18,4 +19,4 @@ Depois de praticarmos como inserir e manipular itens dentro de uma lista, precis
 ### Dia 7
 Até aqui trabalhamos em muitos projetos diferentes praticando vários comandos e interação entre eles dentro do Javascript. Mas ainda não falamos de algo essencial que é a organização do nosso código. No sétimo e ultimo dia do desafio faremos um projeto maior para vermos como a organização ou falta dela pode afetar nossa produção de código e muitas vezes causar erros que normalmente não fariamos.
 
-[⬆ Voltar ao topo](#-logica-com-javascript)
+[⬆ Voltar ao topo](#-lógica-com-javascript)
