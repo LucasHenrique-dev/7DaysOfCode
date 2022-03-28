@@ -47,6 +47,7 @@ while (true) {
     
     while (!lista.has(categoria)) {
         categoria = prompt(`Ops! Parece que você me disse uma categoria inválida\nEssas são as categorias que você adicionou:\n\n${[...lista.keys()].join("\n")}\n\nEm qual delas você deseja adicionar "${item}"?`)
+        categoria = capitalize(categoria)
     }
     
     lista.get(categoria).push(item)
